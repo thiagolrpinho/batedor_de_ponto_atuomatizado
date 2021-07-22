@@ -1,5 +1,1 @@
 from .config import CREDENCIAIS_AHGORA
-
-
-
-CREDENCIAIS_AHGORA

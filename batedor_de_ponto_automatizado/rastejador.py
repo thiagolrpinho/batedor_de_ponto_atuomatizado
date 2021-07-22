@@ -114,3 +114,5 @@ except common.exceptions.ElementClickInterceptedException:
     hover_action_chain = ActionChains(browser).move_to_element(first_day_div_object)
     hover_action_chain.click().perform()
 # %%
+
+# %%
