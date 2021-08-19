@@ -1,1 +1,3 @@
 from .config import CREDENCIAIS_AHGORA
+
+print(CREDENCIAIS_AHGORA)
