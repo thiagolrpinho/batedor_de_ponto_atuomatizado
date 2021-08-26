@@ -1,0 +1,40 @@
+[
+    {
+        "domain": ".ahgora.com.br",
+        "expirationDate": 1661441839,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ajs_user_id",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "null"
+    },
+    {
+        "domain": ".ahgora.com.br",
+        "expirationDate": 1661441839,
+        "hostOnly": false,
+        "httpOnly": false,
+        "name": "ajs_group_id",
+        "path": "/",
+        "sameSite": null,
+        "secure": false,
+        "session": false,
+        "storeId": null,
+        "value": "null"
+    },
+    {
+        "domain": "www.ahgora.com.br",
+        "hostOnly": true,
+        "httpOnly": true,
+        "name": "PHPSESSID",
+        "path": "/",
+        "sameSite": null,
+        "secure": true,
+        "session": true,
+        "storeId": null,
+        "value": "bjkt7t48uvn8eu9dad42misk1o"
+    }
+]
